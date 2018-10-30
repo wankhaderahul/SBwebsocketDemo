@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: FWIN01617
+Implementation-Vendor-Id: com.aol.spring.demo
+Build-Jdk: 1.8.0_51
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
